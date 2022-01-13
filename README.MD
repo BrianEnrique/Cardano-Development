@@ -1,6 +1,5 @@
 <h2 align="center"> Cardano Development </h2>
 
-
 <p align="center">
    </a>
     <img src="https://img.shields.io/github/languages/top/BrianMarquez3/E
@@ -32,7 +31,8 @@ Cardano-Development?color=yellow">
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/cardano.gif" />
+      <img align="center" style="padding=0;" src="./images/ada-cardano.gif" />
     </td>
   </tr>
 </table>
+
