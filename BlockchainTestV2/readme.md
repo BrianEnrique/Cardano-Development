@@ -20,7 +20,6 @@
 **Links Pages**
 
 <a href="https://blockfrost.io/dashboard" target="_blank">Este enlace se abrirá blockfrost.io </a>
-
 <a href="https://docs.blockfrost.io" target="_blank">Este enlace se abrirá el API blockfrost.io </a>
 
 **Ejemplo**
