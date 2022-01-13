@@ -21,6 +21,7 @@
 
 [https://blockfrost.io/dashboard] <br>
 [https://docs.blockfrost.io/]
+<link href="https://blockfrost.io/dashboard" rel="stylesheet" title="Default Style">
 
 **Ejemplo**
 
