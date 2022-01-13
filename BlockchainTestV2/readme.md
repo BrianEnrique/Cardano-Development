@@ -4,20 +4,18 @@
 
 <table>
 
-<th>
+<tr>
     <td> Mainnet </td>
     <td> mainnetm2uTo3CrxRNGP3fB8LN8REJ6Fmbaf828 </td>
-</th>
-<th>
+</tr>
+<tr>
     <td> Testnet </td>
     <td> testnethcImSDiPmQ7VVr3ya02i5P9i9hpIlY1s
     </td>
-</th>
+</tr>
 
 </table>
-testnethcImSDiPmQ7VVr3ya02i5P9i9hpIlY1s
-mainnetm2uTo3CrxRNGP3fB8LN8REJ6Fmbaf828
-```
+
 
 **Links Pages**
 
