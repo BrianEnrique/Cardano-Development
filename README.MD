@@ -75,6 +75,5 @@ Cardano started as a significant research and development project in 2015, and i
 
 [Cardano Developer Portal](https://cardano.io/developers/)
 
-<div id="Power-Contenedor">
-  <a href="#" id="Anyadir-Rutina-btn"> Añadir entreno </a>
-</div>
+<a href="http//www.google.com"><p style="text-align:center">Search</p></a>
+
