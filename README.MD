@@ -63,4 +63,13 @@ Cardano started as a significant research and development project in 2015, and i
 
 ## Cardano Developer Portal
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/developerCardano.png" />
+      <h4> let's build better </h4>
+    </td>
+  </tr>
+</table>
+
 [Cardano Developer Portal](https://cardano.io/developers/)
