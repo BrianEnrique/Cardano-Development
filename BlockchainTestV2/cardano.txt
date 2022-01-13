@@ -1,0 +1,50 @@
+## DOCUMENTACION
+
+Crear cardano Wallet
+----------------------------------------------------------------------------------------------------------------------------------
+requests.post('http://localhost:8090/v2/wallets', json={"name":"Brian's Wallet", "mnemonic_sentence":["already", "pulp", "argue", "twice", "armed", "slush", "hint", "pink", "become", "junk", "organ", "flee", "happy", "silly", "squirrel"], "passphrase": "This is a super safe password!", "address_pool_gap":20}).text
+
+import requests
+import json
+
+data = {
+    'name'                  :   'brianWallets',
+    'mnemonic_sentence'     :  ["expose", "biology", "will", "pause", "taxi", "behave", "inquiry", "lock", "matter", "pride", "divorce", "model", "little", "easily", "solid", "need", "dose", "sadness", "kitchen", "pyramid", "erosion", "shoulder", "double", "fragile"],
+    'passphrase'            :   'brianWallets'
+}
+
+r = requests.post("http://161.97.114.244:8090/v2/wallets", json=data)
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+requests.get('http://161.97.114.244:8090/v2/network/information').text
+requests.get('http://161.97.114.244:8090/v2/wallets').text 
+requests.get('http://161.97.114.244:8090/v2/wallets/101b3814d6977de4b58c9dedc67b87c63a4f36dd/addresses').text
+requests.delete('http://localhost:8090/v2/wallets/101b3814d6977de4b58c9dedc67b87c63a4f36dd').text
+
+----------------------------------------------------------------------------------------------------------------------------------
+http://161.97.114.244:8090/v2/wallets
+
+
+Transaction
+------------------------------------------------------------------------------------------------------------------------
+transaction_data = {"passphrase": "brianWallets", "payments": [{"address": "addr_test1qrf8043sxgmtm9e5ks4nn9ew0jmkg4mzujvh3xy8rsu923vwcmyw2sqzshu2yjpg39y7ea0au4fxkf26en0ujhh4sx8q3j3n95", "amount": {"quantity":1000000, "unit": "lovelace" }}]}
+response = requests.post('http://161.97.114.244:8090/v2/wallets/101b3814d6977de4b58c9dedc67b87c63a4f36dd/transactions', json=transaction_data)
+response.text
+________________________________________________________________________________________________________________________
+ADDRESS CARDANO WALLET CONTABO TESTNET
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+________________________________________________________________________________________________________________________
+
+blockfrost.io
+
+curl -H 'project_id: testnethcImSDiPmQ7VVr3ya02i5P9i9hpIlY1s'         https://cardano-testnet.blockfrost.io/api/v0/pools 
+curl -H 'project_id: testnethcImSDiPmQ7VVr3ya02i5P9i9hpIlY1s'         https://cardano-testnet.blockfrost.io/api/v0/metadata/txs/labels 
+curl -H 'project_id: testnethcImSDiPmQ7VVr3ya02i5P9i9hpIlY1s'         https://cardano-testnet.blockfrost.io/api/v0/genesis 
+
+https://developers.cardano.org/docs/get-started/blockfrost#query-data-of-a-specific-stake-pool
