@@ -67,11 +67,10 @@ Cardano started as a significant research and development project in 2015, and i
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/developerCardano.png" />
-      <h4> let's build better </h4>
+      <div align='center'>
+          https://cardano.io/developers
+      </div>
     </td>
   </tr>
 </table>
 
-<div align='center'>
- https://cardano.io/developers
-</div>
