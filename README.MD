@@ -2,8 +2,7 @@
 
 <p align="center">
    </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/E
-Cardano-Development?color=yellow">
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Cardano-Development?color=yellow">
   </a>
   <a href="https://github.com/BrianMarquez3/Cardano-Development/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Cardano-Development.svg?style=flat" alt="Stars">
