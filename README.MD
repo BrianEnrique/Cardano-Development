@@ -23,7 +23,7 @@
   
    </a>
    <a href="https://github.com/BrianMarquez3/Cardano-Development/network">
-    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+    <img src="https://img.shields.io/badge/Plataform-Linux-red">
   </a><br>
 </p>
   

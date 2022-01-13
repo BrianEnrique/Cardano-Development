@@ -1,4 +1,4 @@
-## Cardano v1
+## Blockchain Test V1 - Cardano
 
 **BlockFrost**
 
