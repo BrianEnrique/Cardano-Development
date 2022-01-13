@@ -5,14 +5,13 @@
 <table>
 
 <th>
-<td> Mainnet </td>
-<td> mainnetm2uTo3CrxRNGP3fB8LN8REJ6Fmbaf828 </td>
+    <td> Mainnet </td>
+    <td> mainnetm2uTo3CrxRNGP3fB8LN8REJ6Fmbaf828 </td>
 </th>
-
 <th>
-<td> Testnet </td>
-<td> testnethcImSDiPmQ7VVr3ya02i5P9i9hpIlY1s
-</td>
+    <td> Testnet </td>
+    <td> testnethcImSDiPmQ7VVr3ya02i5P9i9hpIlY1s
+    </td>
 </th>
 
 </table>
