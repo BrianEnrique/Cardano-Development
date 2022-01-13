@@ -77,5 +77,9 @@ Cardano started as a significant research and development project in 2015, and i
 
 
 
-
-<p style="text-align:center">Centra este texto usando css!</p>
+<center>
+ elemento center
+</center>
+<div align='center'>
+ elemento div con: align='center'
+</div>
