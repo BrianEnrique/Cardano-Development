@@ -75,7 +75,4 @@ Cardano started as a significant research and development project in 2015, and i
 
 [Cardano Developer Portal](https://cardano.io/developers/)
 
-<p style="text-align:center">
-    <a href="http//www.google.com">Search</a> 
-    <a href="Contact Us">Contact Us</a>
-</p>
+<p style="text-align:center;"><a href="http//www.google.com">Search</a><a href="Contact Us">Contact Us</a></p>
