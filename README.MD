@@ -77,9 +77,8 @@ Cardano started as a significant research and development project in 2015, and i
 
 
 
-<center>
- elemento center
-</center>
+
 <div align='center'>
- elemento div con: align='center'
+ [Cardano Developer Portal](https://cardano.io/developers/)
+ https://cardano.io/developers/
 </div>
