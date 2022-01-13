@@ -14,3 +14,6 @@ headers = {
 response = requests.delete("GET", url, headers=headers, data=payload).json()
 
 print(response)
+
+
+## Cardano Developer Portal
