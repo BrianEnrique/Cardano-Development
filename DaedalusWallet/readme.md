@@ -7,7 +7,7 @@ ADA - The cryptocurrency of Cardano
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/DaedalusMainnet.png" />
+      <img align="center" style="padding=0;" src="../images/DaedalusMainnet.png" />
     </td>
   </tr>
 </table>
@@ -22,7 +22,7 @@ ADA - The cryptocurrency of Cardano
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/DaedalusTestnet.png" />
+      <img align="center" style="padding=0;" src="../images/DaedalusTestnet.png" />
     </td>
   </tr>
 </table>
