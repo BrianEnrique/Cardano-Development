@@ -60,3 +60,7 @@ Cardano started as a significant research and development project in 2015, and i
   <li><a href="https://github.com/input-output-hk/smash#smash-overview" target="_blank" rel="noopener noreferrer"><code>smash</code></a> is the stake pool metadata aggregation server. It provides off-chain metadata linked to the on-chain registrations of the stake pools.</li>
   <li><a href="https://github.com/input-output-hk/ouroboros-network/#ouroboros-network" target="_blank" rel="noopener noreferrer"><code>ouroboros-network</code></a> is a network package which implements the ouroboros family of protocols, multiplexing layer.</li>
 </ul>
+
+## Cardano Developer Portal
+
+[Cardano Developer Portal](https://cardano.io/developers/)
